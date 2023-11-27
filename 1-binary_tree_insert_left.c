@@ -1,8 +1,8 @@
 #include "binary_trees.h"
 
 /**
-	* binary_tree_insert_left - incert node as left child.
-	* @parent: parent of child node to be incerted.
+	* binary_tree_insert_left - insert node as left child.
+	* @parent: parent of child node to be inserted.
 	* @value: value to be stored in the child node.
 	*
 	* Return: NULL on fail
